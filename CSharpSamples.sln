@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializacao", "Serializaca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{0BB1CA16-BDFB-4125-B750-6564AC97B869}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesConsoleUI", "DelegatesConsoleUI\DelegatesConsoleUI.csproj", "{CFD677FD-FBED-4B4C-BCA2-0515106B8F69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0BB1CA16-BDFB-4125-B750-6564AC97B869}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BB1CA16-BDFB-4125-B750-6564AC97B869}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BB1CA16-BDFB-4125-B750-6564AC97B869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD677FD-FBED-4B4C-BCA2-0515106B8F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD677FD-FBED-4B4C-BCA2-0515106B8F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD677FD-FBED-4B4C-BCA2-0515106B8F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD677FD-FBED-4B4C-BCA2-0515106B8F69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
