@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesConsoleUI", "DelegatesConsoleUI\DelegatesConsoleUI.csproj", "{CFD677FD-FBED-4B4C-BCA2-0515106B8F69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{0CC169F6-5203-4FF9-908A-4B2ED2C7DEB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CFD677FD-FBED-4B4C-BCA2-0515106B8F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFD677FD-FBED-4B4C-BCA2-0515106B8F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFD677FD-FBED-4B4C-BCA2-0515106B8F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC169F6-5203-4FF9-908A-4B2ED2C7DEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC169F6-5203-4FF9-908A-4B2ED2C7DEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC169F6-5203-4FF9-908A-4B2ED2C7DEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC169F6-5203-4FF9-908A-4B2ED2C7DEB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
